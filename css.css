@@ -48,7 +48,6 @@ footer {
     text-align: center;
 }
 .contatos{
-  display: flex;
   padding: 10px;
   margin: 10px;
   text-decoration: none;
